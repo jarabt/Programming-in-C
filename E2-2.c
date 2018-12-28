@@ -1,3 +1,5 @@
+// test zmena
+
 #include <stdio.h>
 
 int main (void)
