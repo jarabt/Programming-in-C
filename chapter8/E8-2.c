@@ -64,7 +64,7 @@ int main (void)
 
 	printf ("Elapsed days = %i\n", elapsedDays);
 
-	return 1;
+	return 0;
 }
 
 
