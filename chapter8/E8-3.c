@@ -16,11 +16,9 @@ struct time elapsed_time (struct time time1, struct time time2)
 
 	secsTime1 = time1.seconds + time1.minutes * 60 +
 		time1.hour * 3600;
-	printf ("secsTime1 %i\n", secsTime1);
 
 	secsTime2 = time2.seconds + time2.minutes * 60 +
 		time2.hour * 3600;
-	printf ("secsTime2 %i\n", secsTime2);
 
 	elapsedSecs = secsTime2 - secsTime1;
 
@@ -30,9 +28,6 @@ struct time elapsed_time (struct time time1, struct time time2)
 	e_time.hour = elapsedSecs / 3600;
 	e_time.minutes = ( elapsedSecs % 3600 ) / 60;
 	e_time.seconds = ( elapsedSecs % 3600 ) % 60;
-
-	printf ("testing elapsed secs = %i\n", elapsedSecs);    // TESTING
-
 
 	return e_time;
 }
