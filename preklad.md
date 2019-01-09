@@ -26,7 +26,7 @@ Prosím informujte mě (ticketem nebo pomocí pull) jestli víte o nějakých do
 
 ## <a name="What-is-it"></a>Co to je?
 
-Jsem inspirován [google-interview-university](https://github.com/jwasham/coding-interview-university). Rád bych se podělil o zkušenosti a ukázal cestu, jak se stát nízkoúrovňovým programátorem, protože jsem shledal, že tyto dovednosti nejsou tak běžné jako kdysi byly. Navíc se mě mnoho studentů a začátečníků ptá, jak by se mohli stát nízkoúrovňovým programátorem a inženýrem Linuxového jádra.
+Jsem inspirován [google-interview-university](https://github.com/jwasham/coding-interview-university). Rád bych se podělil o zkušenosti a ukázal cestu, jak se stát nízkoúrovňovým programátorem, protože jsem zjistil, že tyto dovednosti nejsou tak běžné jako byly kdysi. Navíc se mě mnoho studentů a začátečníků ptá, jak by se mohli stát nízkoúrovňovým programátorem a inženýrem Linuxového jádra.
 
 Tato stránka nemůže obsahovat všechny odkazy/knihy/kurzy. Například tato stránka představuje Arduino, ale nejsou zde detailní informace o Arduinu a vestavěných systémech. Dál už musíte sami. Máte heslo "Arduino" se kterým můžete začít. Takže vaším dalším krokem bude pravděpodobně progooglování Arduina, a nakoupení sady a udělání něčeho samostatně a ne sbírání odkazů a knih co jsou zadarmo. Prosím mějte napaměti, že tato stránka je pouze plánek pro začátečníky.
 
@@ -69,7 +69,7 @@ Existuje nepřeberné množství dobrých knih. Nechci tím říci, že by jste 
 
 ### <a name="Assembly"></a>Assembly
 
-Vyberte si jeden mezi x86 a ARM. Nemusíte znát oba. Nezáleží na tom znát assembly jazyk. Hlavní věcí je porozumění vnitřním procesů CPU a počítače. Takže nemusíte cvičit assemly posledních CPU. Vyberte si 8086 nebo Corex-M.
+Vyberte si jeden mezi x86 a ARM. Nemusíte znát oba. Nezáleží na tom znát assembly jazyk. Hlavní věcí je porozumění vnitřním procesů CPU a počítače. Takže nemusíte cvičit assemly posledních CPU. Vyberte si 8086 nebo Cortex-M.
 
 * [8086 assembly programming with emu8086](https://github.com/gurugio/book_assembly_8086)
   * základní koncepty CPU a počítačové architektury
