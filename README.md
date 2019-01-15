@@ -1,7 +1,7 @@
 # Programming-in-C-by-Stephen-G.-Kochan
 Excercises:
 
-chapter02...Compiling and Running Your First Program
+chapter02...Compiling and Running Your First Program  
 chapter03...Variables, Data Types, and Arithmetic Expressions
 chapter04...Program Looping
 chapter05...Making Decisions
