@@ -26,11 +26,34 @@ int main (void)
 	printf ("%ld %lo %lx %lu\n", l, l, l, l);
 	printf ("%lli %llo %llx %llu\n", L, L, L, L);
 
+	printf ("\nFloats and Doubles:\n");
+	printf ("%f %e %g\n", f, f, f);
+	printf ("%.2f %.2e\n", f, f);
+	printf ("%.0f %.0e\n", f, f);
+	printf ("%7.2f %7.2e\n", f, f);
+	printf ("%f %e %g\n", d, d, d);
+	printf ("%.*f\n", 3, d);
+	printf ("%*.*f\n", 8, 2, d);
 
+	printf ("\nCharacters:\n");
+	printf ("%c\n", c);
+	printf ("%3c%3c\n", c, c);
+	printf ("%x\n", c);
 
+	printf ("\nStrings:\n");
+	printf ("%s\n", s);
+	printf ("%.5s\n", s);
+	printf ("%30s\n", s);
+	printf ("%20.5s\n", s);
+	printf ("%-20.5s\n", s);
 
+	printf ("\nPointers:\n");
+	printf ("%p  %p\n\n", ip, cp);
+
+	printf ("This%n is fun.%n\n", &c1, &c2);
+	printf ("c1 = %i, c2 = %i\n", c1, c2);
 
 	return 0;
-}
 
+}
 
