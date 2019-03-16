@@ -1,5 +1,0 @@
-
-Your number is 6.50
-Half of it is 3.25
-Square it to get 42.25
-Cube it to get 275

@@ -1,6 +1,0 @@
-Enter a number betweem 1 and 100: 
-
-Your number is 5.00
-Half of it is 2.50
-Square it to get 25.00
-Cube it to get 125
