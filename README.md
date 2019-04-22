@@ -15,5 +15,7 @@ chapter12...The Preprocessor
 chapter13...Extending Data Types with the Enumerated Data Type, Type Definitions, and Data Type Conversions    
 chapter14...Working with Larger Programs (no excercises)  
 chapter15...Input and Output Operations in C  
+chapter16...Miscellaneous and Advanced Features  
+
   
 
