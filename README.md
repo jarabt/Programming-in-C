@@ -1,6 +1,8 @@
 # Programming-in-C-by-Stephen-G.-Kochan
-Excercises:
+(complete)  
 
+Excercises:  
+chapter01...Some Fundamentals (no excercises)
 chapter02...Compiling and Running Your First Program  
 chapter03...Variables, Data Types, and Arithmetic Expressions  
 chapter04...Program Looping  
