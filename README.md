@@ -16,6 +16,5 @@ chapter13...Extending Data Types with the Enumerated Data Type, Type Definitions
 chapter14...Working with Larger Programs (no excercises)  
 chapter15...Input and Output Operations in C  
 chapter16...Miscellaneous and Advanced Features  
-
-  
-
+chapter17...Debugging Programs (no excercises)  
+chapter18...Object-Oriented Programming (no excercises)  
